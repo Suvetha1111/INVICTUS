@@ -1,6 +1,6 @@
 [package]
 name = "service"                # The name of your Rust package (crate)
-version = "0.1.1112"               # The version of your package
+version = "0.1.1113"               # The version of your package
 edition = "2021"                # The Rust edition (language features and idioms)
 
 [dependencies]
